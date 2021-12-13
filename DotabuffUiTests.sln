@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotabuffUiTests", "DotabuffUiTests\DotabuffUiTests.csproj", "{4E072120-6807-40ED-886A-F1D57669C9FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E072120-6807-40ED-886A-F1D57669C9FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E072120-6807-40ED-886A-F1D57669C9FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E072120-6807-40ED-886A-F1D57669C9FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E072120-6807-40ED-886A-F1D57669C9FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F48FCB8-92E7-4E99-AA2B-F3931F3C3514}
+	EndGlobalSection
+EndGlobal

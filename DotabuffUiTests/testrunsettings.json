@@ -1,0 +1,9 @@
+{
+ "Settings": {
+    "BrowserName": "Chrome",
+  "IsRemoteRun": false,
+  "RemoteDriverUrl": "http://localhost:4444/wd/hub/",
+    "StartUrl": "https://www.dotabuff.com/",
+    "TimeoutSeconds": 15000
+  }
+}
